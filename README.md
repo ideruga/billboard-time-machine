@@ -1,5 +1,7 @@
 # billboard-time-machine
-Scraping billboard list for a random date and adding the songs to a Spotify playlist
+Scraping billboard list for a random date and adding the songs to a Spotify playlist.
+Based on [100 Days of Code - The Complete Python Pro Bootcamp for 2021](https://www.udemy.com/course/100-days-of-code), 
+day 45.
 
 
 ## Description
